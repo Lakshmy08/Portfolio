@@ -1,0 +1,99 @@
+@media screen and (max-width: 600px) {
+    header, main, footer {
+        padding: 10px;
+    }
+}
+
+header{
+    background-color: rebeccapurple;
+    text-align: center;
+    padding:10px;
+}
+p{
+    font-size: 18px;
+}
+main>h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+}
+#page2{
+    background-color:bisque;
+}
+#text1{
+    
+    position:relative;
+    top:18%;
+    width:30%;
+    height:75%;
+    left:2%;
+    scale:1.1;
+}
+#text2{
+    position:relative;
+    top:18%;
+    width:30%;
+    height:75%;
+    left:50%;
+    scale:1.1;
+}
+#text3{
+    position:relative;
+    top:18%;
+    width:30%;
+    height:75%;
+    left:2%;
+    scale:1.1;
+}
+#text4{
+    position: relative;
+    top:5px;
+    width:30%;
+    height: 50%;
+    left:4%;
+    scale:1;
+}
+#text5{
+    position:relative;
+    top:5px;
+    width:30%;
+    height:75%;
+    left:40%;
+    scale:1.1;
+}
+#text6{
+    position:relative;
+    top:5px;
+    width:30%;
+    height:75%;
+    left:80%;
+    scale:1.1;
+}
+#h7{
+    font-size: 18px;
+    font-weight: bold;
+}
+#h8{
+    font-size:25px;
+    font-weight: bold;
+}
+h3{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: rebeccapurple;
+    text-align: center;
+}
+button{
+    background-color:navy;
+}
+a{
+    color:aliceblue;
+}
+.corner1{
+   border-radius: 50%;
+}
